@@ -2,7 +2,7 @@
 
 An interactive hydrochemical data dashboard built with Streamlit and Plotly. Upload a CSV file containing data point coordinates and chemical data, explore 26 predefined geochemical plots, visualize sample locations on an interactive map, and build custom bivariate plots.
 
-**Live app → [share.streamlit.io](https://share.streamlit.io/)**
+**Live app → [share.streamlit.io](https://aquachem-dash.streamlit.app/)**
 
 ---
 
